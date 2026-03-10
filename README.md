@@ -5,4 +5,4 @@ A beginner‑friendly Python project where the computer picks a random number be
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/guess-the-number.git
+https://github.com/pushpanjalich1985/guess-the-number.git
